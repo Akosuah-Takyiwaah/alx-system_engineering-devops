@@ -1,1 +1,1 @@
-This sis my first read me file on shell permission 
+This is my readme file on shell permission
